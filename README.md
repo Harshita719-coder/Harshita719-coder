@@ -1,6 +1,4 @@
 B.S. Computer Science @ George Mason University
-
-
 📍 Chantilly, VA  
 📧 hlnu2@gmu.edu  
 ---

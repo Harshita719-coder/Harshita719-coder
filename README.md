@@ -69,7 +69,7 @@ Git • GitHub • Linux • MySQL • NumPy • RStudio • Zapier
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true&theme=default&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true&theme=radical)
 
 ---
 

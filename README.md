@@ -1,7 +1,18 @@
 B.S. Computer Science @ George Mason University
 
-📧 [Email Me](mailto:harshitabehal03@gmail.com) &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshita-lnu-727b45294)
+<p align="left">
+
+<a href="mailto:harshitabehal03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/harshita-lnu-727b45294">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 

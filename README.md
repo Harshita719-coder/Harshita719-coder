@@ -8,10 +8,7 @@
 
 <a href="mailto:harshitabehal03@gmail.com">
 <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
+</a> 
 <a href="https://www.linkedin.com/in/harshita-lnu-727b45294">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

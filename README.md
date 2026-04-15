@@ -41,19 +41,35 @@ Git • GitHub • Linux • MySQL • NumPy • RStudio • Zapier
 
 ## 🚀 Projects
 
-### 🌐 CCD Website
-- Built responsive frontend using HTML, CSS, JS  
+### 🌐 CCD Website (Frontend Development)
+- Designed and developed a fully responsive website using **HTML, CSS, JavaScript**
+- Focused on clean UI/UX design and mobile responsiveness
+- Improved navigation structure and overall user experience
+- Applied Bootstrap components for faster and consistent styling
+- Ensured cross-browser compatibility and performance optimization
 
-### 📊 Airline Data Analysis
-- Performed statistical analysis and regression in R  
+---
+
+### 📊 Airline Data Analysis (R Programming)
+- Conducted in-depth statistical analysis on real-world airline performance data
+- Performed **data cleaning, transformation, and visualization** using R
+- Applied **regression models, hypothesis testing, and confidence intervals**
+- Identified trends in flight delays and airline efficiency patterns
+- Created clear visual dashboards to communicate insights effectively
+
+---
 
 ### 🏆 Challenge X Hackathon — 3rd Place
-- Built data visualization platform using APIs + Java  
+- Built a full-stack data visualization platform for U.S. Treasury spending analysis
+- Integrated external APIs to fetch and process real-time structured data
+- Developed backend logic using **Java-based frameworks**
+- Collaborated in an agile team using GitHub for version control
+- Delivered a working prototype under tight deadlines, earning **3rd place**
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true&theme=default&cache_seconds=1800)
 
 ---
 

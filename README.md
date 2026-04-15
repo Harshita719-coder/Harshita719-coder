@@ -25,61 +25,30 @@
 ---
 
 ## 🛠️ Tech Stack
-<div class="section">
-  <h2>Tech Stack</h2>
+💻 Languages
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <div class="button-group">
-    <span class="btn">C</span>
-    <span class="btn">C++</span>
-    <span class="btn">Java</span>
-    <span class="btn">Python</span>
-    <span class="btn">R</span>
-    <span class="btn">JavaScript</span>
-    <span class="btn">SQL</span>
+🌐 Web
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-    <span class="btn">HTML</span>
-    <span class="btn">CSS</span>
-    <span class="btn">Bootstrap</span>
-    <span class="btn">WordPress</span>
+⚙️ Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
 
-    <span class="btn">Git</span>
-    <span class="btn">GitHub</span>
-    <span class="btn">Linux</span>
-    <span class="btn">MySQL</span>
-    <span class="btn">NumPy</span>
-    <span class="btn">RStudio</span>
-    <span class="btn">Zapier</span>
-  </div>
-</div>  
-
-.section {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.button-group {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-  margin-top: 10px;
-}
-
-.btn {
-  padding: 8px 14px;
-  border: 1px solid #ccc;
-  border-radius: 20px;
-  background-color: #f8f8f8;
-  font-size: 14px;
-  cursor: default;
-  transition: all 0.2s ease-in-out;
-}
-
-.btn:hover {
-  background-color: #000;
-  color: #fff;
-  transform: scale(1.05);
-}
 ---
 
 ## 💼 Experience

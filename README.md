@@ -1,7 +1,8 @@
 B.S. Computer Science @ George Mason University
-📧 hlnu2@gmu.edu
 
-📧 hlnu2@gmu.edu&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshita-lnu-727b45294)
+📧 harshitabehal03@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshita-lnu-727b45294)
 ---
 
 ## 🧠 About Me

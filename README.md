@@ -75,6 +75,18 @@ Git • GitHub • Linux • MySQL • NumPy • RStudio • Zapier
 - Delivered a working prototype under tight deadlines, earning **3rd place**
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshita719-coder&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true&theme=radical)

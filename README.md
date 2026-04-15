@@ -25,16 +25,61 @@
 ---
 
 ## 🛠️ Tech Stack
+<div class="section">
+  <h2>Tech Stack</h2>
 
-### 💻 Languages
-C • C++ • Java • Python • R • JavaScript • SQL  
+  <div class="button-group">
+    <span class="btn">C</span>
+    <span class="btn">C++</span>
+    <span class="btn">Java</span>
+    <span class="btn">Python</span>
+    <span class="btn">R</span>
+    <span class="btn">JavaScript</span>
+    <span class="btn">SQL</span>
 
-### 🌐 Web
-HTML • CSS • Bootstrap • WordPress  
+    <span class="btn">HTML</span>
+    <span class="btn">CSS</span>
+    <span class="btn">Bootstrap</span>
+    <span class="btn">WordPress</span>
 
-### ⚙️ Tools
-Git • GitHub • Linux • MySQL • NumPy • RStudio • Zapier  
+    <span class="btn">Git</span>
+    <span class="btn">GitHub</span>
+    <span class="btn">Linux</span>
+    <span class="btn">MySQL</span>
+    <span class="btn">NumPy</span>
+    <span class="btn">RStudio</span>
+    <span class="btn">Zapier</span>
+  </div>
+</div>  
 
+.section {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.btn {
+  padding: 8px 14px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  background-color: #f8f8f8;
+  font-size: 14px;
+  cursor: default;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #000;
+  color: #fff;
+  transform: scale(1.05);
+}
 ---
 
 ## 💼 Experience
@@ -91,9 +136,6 @@ Git • GitHub • Linux • MySQL • NumPy • RStudio • Zapier
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/>
 </p>
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita719-coder&show_icons=true&theme=radical)
 
 ---
 

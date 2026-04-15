@@ -29,13 +29,21 @@ Git • GitHub • Linux • MySQL • NumPy • RStudio • Zapier
 ## 💼 Experience
 
 ### 🤖 AI & Automation Intern — Resilience Inc.
-- Built AI workflows using GPT + Zapier + WordPress APIs  
-- Automated content generation  
-- Improved publishing efficiency  
+- Designed and developed **AI-powered automation workflows** using OpenAI GPT models, Zapier, and WordPress  
+- Built systems to automatically generate, format, and publish website content with minimal manual input   
+- Worked with LLM-based prompt engineering to enhance output quality and consistency  
+- Collaborated with team members to integrate workflows into existing production systems and ensure reliability  
+- Documented processes and contributed to iterative improvements in automation architecture  
 
-### 🧗 EDGE Facilitator — GMU
-- Led team-building activities  
-- Supported collaboration and problem-solving  
+---
+
+### 🧗 EDGE Facilitator — George Mason University
+- Facilitated **experiential learning and team-building activities** for student groups  
+- Guided participants through problem-solving and collaboration-based challenges  
+- Ensured safety protocols and smooth execution of challenge course activities  
+- Supported group dynamics by encouraging communication, leadership, and teamwork skills  
+- Assisted instructors in organizing structured learning sessions for students and external groups  
+- Helped create a positive, inclusive, and engaging learning environment on campus   
 
 ---
 

@@ -1,7 +1,8 @@
 B.S. Computer Science @ George Mason University
 
 📧 hlnu2@gmu.edu        
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshita-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshita-lnu-727b45294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshita-lnu-727b45294)
+
 ---
 
 ## 🧠 About Me

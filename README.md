@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Harshita Lnu
+B.S. Computer Science @ George Mason University
+
 
 📍 Chantilly, VA  
 📧 hlnu2@gmu.edu  
-🎓 B.S. Computer Science @ George Mason University (Expected May 2027)
-
 ---
 
 ## 🧠 About Me

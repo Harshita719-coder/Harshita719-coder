@@ -186,10 +186,10 @@
   <img src="https://streak-stats.demolab.com/?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/> 
 </p>
 ---
-## 📈 GitHub Activity Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita719-coder&theme=react-dark&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/Harshita719-coder" alt="Harshita's GitHub contribution graph"/>
 </p>
 
 

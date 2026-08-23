@@ -14,9 +14,6 @@
 <a href="https://www.linkedin.com/in/harshita-lnu-727b45294">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Harshita719-coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </p>
 
@@ -36,13 +33,15 @@
 
 ### 💻 Languages
 
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p>
+<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> &nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### 🤖 AI / Machine Learning
 
@@ -181,24 +180,11 @@
 </p>
 
 ---
+🔥 Streak Stats
 
-## 📬 Connect
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/> </p>
 
-<p align="center">
 
-<a href="mailto:harshitabehal03@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/harshita-lnu-727b45294">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Harshita719-coder">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 

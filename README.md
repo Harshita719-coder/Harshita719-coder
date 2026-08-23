@@ -186,13 +186,6 @@
   <img src="https://streak-stats.demolab.com/?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/> 
 </p>
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/Harshita719-coder" alt="Harshita's GitHub contribution graph" style="background-color:#161b22; padding:8px; border-radius:6px;"/>
-</p>
-
-
 ### ⭐ Thanks for visiting my profile!
 
 </p>

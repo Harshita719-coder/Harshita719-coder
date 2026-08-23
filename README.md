@@ -183,11 +183,14 @@
 ## 🔥 Streak Stats 
 
 <p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/> 
+  <img src="https://streak-stats.demolab.com/?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/> 
 </p>
-
 ---
+## 📈 GitHub Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshita719-coder&theme=react-dark&hide_border=true"/>
+</p>
 
 
 ### ⭐ Thanks for visiting my profile!

@@ -180,12 +180,6 @@
 * 💻 Software Engineering
 
 ---
-## 🔥 Streak Stats 
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=Harshita719-coder&theme=github-dark-blue&hide_border=true"/> 
-</p>
-
 ### ⭐ Thanks for visiting my profile!
 
 </p>
